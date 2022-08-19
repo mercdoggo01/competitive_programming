@@ -1,0 +1,5 @@
+Link: https://codeforces.com/gym/103800/problem/A
+
+Ans.) observation if gcd of two numbers is already 1 answer will be 1
+
+else the answer will be the gcd of both x,y.
